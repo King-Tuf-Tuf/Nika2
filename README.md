@@ -49,12 +49,12 @@ sudo pacman -Sy libudev0 cmake xorg-server git base-devel libx11 libxtst
 ### 1. Download Repo:
 ```
 Open Linux terminal then type:
-git clone https://github.com/Pesci-Apu/Nika
+git clone https://github.com/King-Tuf-Tuf/Nika2
 ```
 
 ### 2. Get inside the folder
 ```
-cd Nika
+cd Nika2
 ```
 
 ### 3. Compile the program:
